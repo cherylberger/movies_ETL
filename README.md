@@ -61,22 +61,28 @@ ETL_clean_wiki_movies.ipynb
 #### Deliverable 3: Extract and Transform the Kaggle Data (30 points)
 
 ##### In Step 2, below the code that cleans the running time column in the wiki_movies_df DataFrame from Deliverable 2, add the code that cleans the Kaggle metadata.
+![image](https://user-images.githubusercontent.com/94234511/150723536-41f3a589-fb44-4efc-9c31-deffe352e03a.png)
 
 ##### merge the wiki_movies_df DataFrame and the kaggle_metadata DataFrames, then name the new DataFrame, movies_df.
-
+![image](https://user-images.githubusercontent.com/94234511/150723587-04dd7fe3-9ae4-441d-b97e-44ea0a01ced2.png)
 
 ##### Clean the merged DataFrame
+![image](https://user-images.githubusercontent.com/94234511/150723623-e5787957-a557-4896-95eb-0c595959e14a.png)
 
 ##### rename the columns in the movies_df DataFrame.
+![image](https://user-images.githubusercontent.com/94234511/150723653-2da49e8f-4903-4a7a-a448-a5e38f798096.png)
 
 ##### transform and merge the ratings DataFrame with the movies_df DataFrame, name the new DataFrame movies_with_ratings_df, then clean the movies_with_ratings_df DataFrame.
-
+![image](https://user-images.githubusercontent.com/94234511/150723682-2da67082-a550-4ea1-9413-f5a602fb9d66.png)
 
 ##### check that your wiki_movies_df DataFrame is the same as in Deliverable 2.
+![image](https://user-images.githubusercontent.com/94234511/150723741-b110df38-4598-42cf-b25c-a910c3d3109e.png)
 
 ##### movies_with_ratings_df
+![image](https://user-images.githubusercontent.com/94234511/150723768-32887cd1-8de4-4b20-b404-003bcf915e1b.png)
 
 ##### movies_df
+![image](https://user-images.githubusercontent.com/94234511/150723798-1ff215f8-6354-4653-a02e-955709321732.png)
 
 ETL_clean_kaggle_data.ipynb
 
