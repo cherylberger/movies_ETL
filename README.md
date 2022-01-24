@@ -99,7 +99,7 @@ Create config file to allow import of database password to access the data.
 ![image](https://user-images.githubusercontent.com/94234511/150723059-1f9120b1-8942-4166-9dd3-528c38927dfe.png)
 
 ##### Run a query on the PostgreSQL database that retreives the number of rows for the movies and ratings tables.
-
+https://github.com/cherylberger/movies_ETL/blob/main/Resources/Images%20for%20ReadMe%20file/Transform%20and%20merge%20to%20create%20the%20movies%20database%20in%20SQL.png
 ##### movies_query.png 
 https://github.com/cherylberger/movies_ETL/blob/main/Resources/movies_query.png
 
