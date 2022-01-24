@@ -84,7 +84,7 @@ ETL_clean_wiki_movies.ipynb
 ##### movies_df
 ![image](https://user-images.githubusercontent.com/94234511/150723798-1ff215f8-6354-4653-a02e-955709321732.png)
 
-ETL_clean_kaggle_data.ipynb
+https://github.com/cherylberger/movies_ETL/blob/main/ELT_clean_kaggle_data.ipynb
 
 #### Deliverable 4: Create the Movie Database (15 points)
 
