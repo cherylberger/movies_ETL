@@ -56,7 +56,7 @@ https://github.com/cherylberger/movies_ETL/blob/main/ETL_function_test.ipynb
 ##### wiki_movies_df DataFrame to a list,
 ![image](https://user-images.githubusercontent.com/94234511/150722974-44aded79-f3d2-44f4-89f7-e107177a5c2e.png)
 
-ETL_clean_wiki_movies.ipynb
+https://github.com/cherylberger/movies_ETL/blob/main/etl_clean_wiki_movies.ipynb
 
 #### Deliverable 3: Extract and Transform the Kaggle Data (30 points)
 
