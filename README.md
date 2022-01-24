@@ -87,22 +87,24 @@ https://github.com/cherylberger/movies_ETL/blob/main/etl_clean_wiki_movies.ipynb
 https://github.com/cherylberger/movies_ETL/blob/main/ELT_clean_kaggle_data.ipynb
 
 #### Deliverable 4: Create the Movie Database (15 points)
+Create config file to allow import of database password to access the data. 
+" from config import db_password" 
 
-from config import db_password
-
-Transform and merge the ratings DataFrame, add the code to create the connection to the PostgreSQL database, then add the movies_df DataFrame to a SQL database.R
+##### Transform and merge the ratings DataFrame, add the code to create the connection to the PostgreSQL database, then add the movies_df DataFrame to a SQL database.R
 ![image](https://user-images.githubusercontent.com/94234511/150723227-42396ea0-e884-4b9d-87fa-5736ba9be232.png)
 
-Add the code that prints out the elapsed time to import each row.
+##### Add the code that prints out the elapsed time to import each row.
 ![image](https://user-images.githubusercontent.com/94234511/150723315-38999cbc-57f8-43c8-8f1a-bfa6dd6d25bb.png)
 
-Refactor Step 11 of Deliverable 3 so that you pass in the variables for the files created in Step 10 of Deliverable 3 in the function created in Deliverable 1.
+##### Refactor Step 11 of Deliverable 3 so that you pass in the variables for the files created in Step 10 of Deliverable 3 in the function created in Deliverable 1.
 ![image](https://user-images.githubusercontent.com/94234511/150723059-1f9120b1-8942-4166-9dd3-528c38927dfe.png)
 
-run a query on the PostgreSQL database that retreives the number of rows for the movies and ratings tables.
+##### Run a query on the PostgreSQL database that retreives the number of rows for the movies and ratings tables.
 
-movies_query.png 
+##### movies_query.png 
 https://github.com/cherylberger/movies_ETL/blob/main/Resources/movies_query.png
-ratings_query.png
+
+##### ratings_query.png
+https://github.com/cherylberger/movies_ETL/blob/main/Resources/ratings_query.png
 
 https://github.com/cherylberger/movies_ETL/blob/main/ELT_create_database.ipynb
