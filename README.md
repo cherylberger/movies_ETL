@@ -102,7 +102,7 @@ Refactor Step 11 of Deliverable 3 so that you pass in the variables for the file
 run a query on the PostgreSQL database that retreives the number of rows for the movies and ratings tables.
 
 movies_query.png 
-
+https://github.com/cherylberger/movies_ETL/blob/main/Resources/movies_query.png
 ratings_query.png
 
 https://github.com/cherylberger/movies_ETL/blob/main/ELT_create_database.ipynb
