@@ -105,4 +105,4 @@ movies_query.png
 
 ratings_query.png
 
-ETL_clean_kaggle_data.ipynb
+https://github.com/cherylberger/movies_ETL/blob/main/ELT_create_database.ipynb
