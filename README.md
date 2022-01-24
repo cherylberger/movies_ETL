@@ -24,7 +24,7 @@ Deliverable 4: Create the Movie Database
 ##### The ratings DataFrame
 ![image](https://user-images.githubusercontent.com/94234511/150722511-960cb64a-b6d8-4b48-a64f-f53fd5962128.png)
 
-ETL_function_test.ipynb
+https://github.com/cherylberger/movies_ETL/blob/main/ETL_function_test.ipynb
 
 
 #### Deliverable 2: Extract and Transform the Wikipedia Data (30 points)
