@@ -1,7 +1,7 @@
-# movies_ETL
-## Data Analytics Mod 8
+# Extract Transform and Load (movies_ETL)
+## Data Analytics Module 8                            Cheryl Berger
 ### Project Overview
-Background
+
 Amazing Prime loves the dataset and wants to keep it updated on a daily basis. Britta needs your help to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. You’ll need to refactor the code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
 
 ### Scope
@@ -25,7 +25,6 @@ Deliverable 4: Create the Movie Database
 ![image](https://user-images.githubusercontent.com/94234511/150722511-960cb64a-b6d8-4b48-a64f-f53fd5962128.png)
 
 https://github.com/cherylberger/movies_ETL/blob/main/ETL_function_test.ipynb
-
 
 #### Deliverable 2: Extract and Transform the Wikipedia Data (30 points)
 
